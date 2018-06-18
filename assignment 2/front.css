@@ -1,0 +1,48 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(6, 119, 212);
+}
+
+li{
+    
+    float: left;
+}
+
+li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(119, 152, 200);
+}
+
+body{
+    background-image: url(background.png);
+    font-family: "Georgia";
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.middle{
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

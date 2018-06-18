@@ -1,0 +1,73 @@
+body{
+    background-image: url(background.png);
+    background-attachment: fixed;
+    color: #000000;
+    font-family: "Georgia";
+}
+table{
+    background-color: #CC9933;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+th{
+    background-color: #003366;
+}
+table, th, td {
+    border: 2px solid white;
+    font-family: "Futura";
+    padding: 5px;
+}
+.abc, .xyz{
+    background-color: #F0F0F0;
+    color: #A4A400;
+}
+
+.head1{
+    background-color: #F0F0F0;
+    color: #A4A400;
+    text-align: center;
+    font-family: "Futura";
+}
+.foo{
+    background-color: #003366;
+}
+.bold{
+    font-weight: bold;
+}
+.top{
+    background-color: rgb(228, 227, 159);
+    display: inline;
+}
+#body2{
+    background-image: url(background.png);
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
+.meringue{
+    list-style-type: decimal;
+}
+.steps{
+    list-style-type: decimal;
+}
+.recipe2{
+    background-color: aquamarine;
+    border-radius: 5px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.list, .title{
+    text-align: center;
+}
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.firsttable{
+    width: 75%;
+}
+.secondtable{
+    width: 50%;
+}
